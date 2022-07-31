@@ -1,0 +1,105 @@
+/bin/sh: 1: /datadrive/Crontab/telegram.sh: Permission denied
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 377, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 266, in main
+    cur.execute('SELECT api_key,secret_key,customer_id FROM naver WHERE telegram_id = {}'.format(user_id))
+sqlite3.OperationalError: no such table: naver
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 377, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 266, in main
+    cur.execute('SELECT api_key,secret_key,customer_id FROM naver WHERE telegram_id = {}'.format(user_id))
+sqlite3.OperationalError: no such table: naver
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 377, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 313, in main
+    random_dict = RS(ads,ACTUAL_CTR)
+  File "/datadrive/Crontab/telegram_crontab.py", line 63, in RS
+    did_click = bernoulli.rvs(ACTUAL_CTR[random_ad]) # simulate if the person clicked on the ad usind Actual CTR value
+  File "/anaconda/envs/py37_default/lib/python3.7/site-packages/scipy/stats/_distn_infrastructure.py", line 2997, in rvs
+    return super(rv_discrete, self).rvs(*args, **kwargs)
+  File "/anaconda/envs/py37_default/lib/python3.7/site-packages/scipy/stats/_distn_infrastructure.py", line 979, in rvs
+    raise ValueError("Domain error in arguments.")
+ValueError: Domain error in arguments.
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 377, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 313, in main
+    random_dict = RS(ads,ACTUAL_CTR)
+  File "/datadrive/Crontab/telegram_crontab.py", line 63, in RS
+    did_click = bernoulli.rvs(ACTUAL_CTR[random_ad]) # simulate if the person clicked on the ad usind Actual CTR value
+  File "/anaconda/envs/py37_default/lib/python3.7/site-packages/scipy/stats/_distn_infrastructure.py", line 2997, in rvs
+    return super(rv_discrete, self).rvs(*args, **kwargs)
+  File "/anaconda/envs/py37_default/lib/python3.7/site-packages/scipy/stats/_distn_infrastructure.py", line 979, in rvs
+    raise ValueError("Domain error in arguments.")
+ValueError: Domain error in arguments.
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 565, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 560, in main
+    KPI()
+  File "/datadrive/Crontab/telegram_crontab.py", line 275, in KPI
+    cur.execute('SELECT daily_budget,grp_id,w1_cpc,w2_cpm,w3_ctr FROM kpi WHERE customer_id = {}'.format(customer_id))
+sqlite3.OperationalError: no such column: w1_cpc
+/datadrive/Crontab/telegram_crontab.py:320: RuntimeWarning: invalid value encountered in double_scalars
+  ctr = math.ceil(clicks / impressions * 10000)/100
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 565, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 560, in main
+    KPI()
+  File "/datadrive/Crontab/telegram_crontab.py", line 320, in KPI
+    ctr = math.ceil(clicks / impressions * 10000)/100
+ValueError: cannot convert float NaN to integer
+/datadrive/Crontab/telegram_crontab.py:320: RuntimeWarning: invalid value encountered in double_scalars
+  ctr = math.ceil(clicks / impressions * 10000)/100
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 565, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 560, in main
+    KPI()
+  File "/datadrive/Crontab/telegram_crontab.py", line 320, in KPI
+    ctr = math.ceil(clicks / impressions * 10000)/100
+ValueError: cannot convert float NaN to integer
+/datadrive/Crontab/telegram_crontab.py:320: RuntimeWarning: invalid value encountered in double_scalars
+  ctr = math.ceil(clicks / impressions * 10000)/100
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 565, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 560, in main
+    KPI()
+  File "/datadrive/Crontab/telegram_crontab.py", line 320, in KPI
+    ctr = math.ceil(clicks / impressions * 10000)/100
+ValueError: cannot convert float NaN to integer
+/datadrive/Crontab/telegram_crontab.py:320: RuntimeWarning: invalid value encountered in double_scalars
+  ctr = math.ceil(clicks / impressions * 10000)/100
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 565, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 560, in main
+    KPI()
+  File "/datadrive/Crontab/telegram_crontab.py", line 320, in KPI
+    ctr = math.ceil(clicks / impressions * 10000)/100
+ValueError: cannot convert float NaN to integer
+/datadrive/Crontab/telegram_crontab.py:320: RuntimeWarning: invalid value encountered in double_scalars
+  ctr = math.ceil(clicks / impressions * 10000)/100
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 565, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 560, in main
+    KPI()
+  File "/datadrive/Crontab/telegram_crontab.py", line 320, in KPI
+    ctr = math.ceil(clicks / impressions * 10000)/100
+ValueError: cannot convert float NaN to integer
+/datadrive/Crontab/telegram_crontab.py:320: RuntimeWarning: invalid value encountered in double_scalars
+  ctr = math.ceil(clicks / impressions * 10000)/100
+Traceback (most recent call last):
+  File "/datadrive/Crontab/telegram_crontab.py", line 565, in <module>
+    main()
+  File "/datadrive/Crontab/telegram_crontab.py", line 560, in main
+    KPI()
+  File "/datadrive/Crontab/telegram_crontab.py", line 320, in KPI
+    ctr = math.ceil(clicks / impressions * 10000)/100
+ValueError: cannot convert float NaN to integer
