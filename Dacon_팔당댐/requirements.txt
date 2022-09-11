@@ -1,0 +1,220 @@
+absl-py==0.12.0
+alembic @ file:///tmp/wheelhouse/alembic-1.4.3-py2.py3-none-any.whl
+anyio==2.2.0
+argon2-cffi==20.1.0
+astunparse==1.6.3
+async-generator @ file:///tmp/wheelhouse/async_generator-1.10-py3-none-any.whl
+attrs @ file:///tmp/wheelhouse/attrs-20.3.0-py2.py3-none-any.whl
+Babel==2.9.0
+backcall==0.2.0
+backports.entry-points-selectable==1.1.1
+beautifulsoup4==4.6.0
+benepar==0.2.0
+bleach==3.3.0
+blis==0.7.4
+boto3==1.17.53
+botocore==1.20.53
+bs4==0.0.1
+cachetools==4.2.1
+catalogue==2.0.3
+catboost==0.25.1
+certifi @ file:///tmp/wheelhouse/certifi-2020.12.5-py2.py3-none-any.whl
+certipy @ file:///tmp/wheelhouse/certipy-0.1.3-py3-none-any.whl
+cffi @ file:///tmp/wheelhouse/cffi-1.14.4-cp38-cp38-manylinux1_x86_64.whl
+chardet @ file:///tmp/wheelhouse/chardet-3.0.4-py2.py3-none-any.whl
+click==7.1.2
+colorama==0.4.3
+cryptography @ file:///tmp/wheelhouse/cryptography-3.3.1-cp36-abi3-manylinux2010_x86_64.whl
+cssselect==1.1.0
+customized-konlpy==0.0.64
+cycler==0.10.0
+cymem==2.0.5
+Cython==0.29.23
+dbus-python==1.2.16
+decorator==4.4.2
+defusedxml==0.7.1
+deprecation==2.1.0
+distlib==0.3.3
+entrypoints @ file:///tmp/wheelhouse/entrypoints-0.3-py2.py3-none-any.whl
+feedfinder2==0.0.4
+feedparser==6.0.2
+filelock==3.4.0
+flatbuffers==1.12
+funcy==1.15
+future==0.18.2
+gast==0.3.3
+gensim==4.0.1
+gluonnlp==0.10.0
+google-auth==1.29.0
+google-auth-oauthlib==0.4.4
+google-pasta==0.2.0
+graphviz==0.8.4
+grpcio==1.32.0
+h5py==2.10.0
+idna @ file:///tmp/wheelhouse/idna-2.10-py2.py3-none-any.whl
+ipykernel==5.5.3
+ipython==7.22.0
+ipython-genutils @ file:///tmp/wheelhouse/ipython_genutils-0.2.0-py2.py3-none-any.whl
+jedi==0.18.0
+jieba3k==0.35.1
+Jinja2 @ file:///tmp/wheelhouse/Jinja2-2.11.2-py2.py3-none-any.whl
+jmespath==0.10.0
+joblib==1.0.1
+JPype1==1.2.1
+json5==0.9.5
+jsonschema @ file:///tmp/wheelhouse/jsonschema-3.2.0-py2.py3-none-any.whl
+jupyter-client==6.1.12
+jupyter-core==4.7.1
+jupyter-packaging==0.9.1
+jupyter-server==1.6.1
+jupyter-telemetry @ file:///tmp/wheelhouse/jupyter_telemetry-0.1.0-py3-none-any.whl
+jupyterhub @ file:///tmp/wheelhouse/jupyterhub-1.3.0-py3-none-any.whl
+jupyterlab==3.0.14
+jupyterlab-pygments==0.1.2
+jupyterlab-server==2.4.0
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+kobert-transformers==0.4.1
+konlpy==0.5.2
+krwordrank==1.0.3
+kss==2.5.0
+lightgbm==3.2.1
+lxml==4.6.3
+Mako @ file:///tmp/wheelhouse/Mako-1.1.3-py2.py3-none-any.whl
+Markdown==3.3.4
+MarkupSafe @ file:///tmp/wheelhouse/MarkupSafe-1.1.1-cp38-cp38-manylinux1_x86_64.whl
+matplotlib==3.4.1
+mecab-python===0.996-ko-0.9.2
+mistune==0.8.4
+murmurhash==1.0.5
+mxnet==1.8.0.post0
+nbclassic==0.2.7
+nbclient==0.5.3
+nbconvert==6.0.7
+nbformat==5.1.3
+nest-asyncio==1.5.1
+networkx==2.5.1
+newspaper3k==0.2.8
+nltk==3.6.1
+node2vec==0.4.3
+notebook==6.3.0
+numexpr==2.7.3
+numpy==1.19.5
+oauthlib @ file:///tmp/wheelhouse/oauthlib-3.1.0-py2.py3-none-any.whl
+opencv-python==4.5.1.48
+opt-einsum==3.3.0
+packaging==21.3
+pamela @ file:///tmp/wheelhouse/pamela-1.0.0-py2.py3-none-any.whl
+pandas==1.2.4
+pandocfilters==1.4.3
+parso==0.8.2
+pathy==0.4.0
+patsy==0.5.2
+pexpect==4.8.0
+pickle5==0.0.11
+pickleshare==0.7.5
+Pillow==8.2.0
+platformdirs==2.4.0
+plotly==4.14.3
+preshed==3.0.5
+prometheus-client @ file:///tmp/wheelhouse/prometheus_client-0.9.0-py2.py3-none-any.whl
+prompt-toolkit==3.0.18
+protobuf==3.15.8
+psutil==5.8.0
+ptyprocess==0.7.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybind11==2.6.2
+pycparser @ file:///tmp/wheelhouse/pycparser-2.20-py2.py3-none-any.whl
+pycrfsuite-spacing==1.0.2
+pycurl==7.43.0.2
+pydantic==1.7.3
+Pygments==2.8.1
+PyGObject==3.36.0
+pyLDAvis==3.3.1
+pyOpenSSL @ file:///tmp/wheelhouse/pyOpenSSL-20.0.0-py2.py3-none-any.whl
+pyparsing==2.4.7
+pyrsistent @ file:///tmp/wheelhouse/pyrsistent-0.17.3-cp38-cp38-linux_x86_64.whl
+PySocks==1.7.1
+python-apt==2.0.0+ubuntu0.20.4.4
+python-crfsuite==0.9.7
+python-dateutil @ file:///tmp/wheelhouse/python_dateutil-2.8.1-py2.py3-none-any.whl
+python-editor @ file:///tmp/wheelhouse/python_editor-1.0.4-py3-none-any.whl
+python-json-logger @ file:///tmp/wheelhouse/python_json_logger-2.0.1-py34-none-any.whl
+pytorch-crf==0.7.2
+pytorch-pretrained-bert==0.6.2
+pytorch-transformers==1.2.0
+pytz==2021.1
+pyxattr==0.6.1
+PyYAML==5.4.1
+pyzmq==22.0.3
+regex==2021.4.4
+requests @ file:///tmp/wheelhouse/requests-2.25.0-py2.py3-none-any.whl
+requests-file==1.5.1
+requests-oauthlib==1.3.0
+retrying==1.3.3
+rsa==4.7.2
+ruamel.yaml @ file:///tmp/wheelhouse/ruamel.yaml-0.16.12-py2.py3-none-any.whl
+ruamel.yaml.clib @ file:///tmp/wheelhouse/ruamel.yaml.clib-0.2.2-cp38-cp38-manylinux1_x86_64.whl
+s3transfer==0.3.7
+sacremoses==0.0.44
+scikit-learn==0.24.1
+scipy==1.4.1
+seaborn==0.11.1
+selenium==3.141.0
+Send2Trash==1.5.0
+sentencepiece==0.1.95
+seqeval==1.2.2
+sgmllib3k==1.0.0
+six @ file:///tmp/wheelhouse/six-1.15.0-py2.py3-none-any.whl
+sklearn==0.0
+sklearn-crfsuite==0.3.6
+smart-open==3.0.0
+sniffio==1.2.0
+soylemma==0.2.0
+soynlp==0.0.493
+spacy==3.0.5
+spacy-legacy==3.0.2
+SQLAlchemy @ file:///tmp/wheelhouse/SQLAlchemy-1.3.20-cp38-cp38-manylinux2010_x86_64.whl
+srsly==2.4.1
+statsmodels==0.13.2
+tabulate==0.8.9
+tensorboard==2.4.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+termcolor==1.1.0
+terminado==0.9.4
+testpath==0.4.4
+thinc==8.0.2
+threadpoolctl==2.1.0
+tinysegmenter==0.3
+tldextract==3.1.0
+tokenizers==0.10.2
+tomlkit==0.7.0
+tomotopy==0.11.1
+torch==1.8.1+cu111
+torch-struct==0.5
+torchaudio==0.8.1
+torchvision==0.9.1+cu111
+tornado @ file:///tmp/wheelhouse/tornado-6.1-cp38-cp38-manylinux2010_x86_64.whl
+tqdm==4.60.0
+traitlets @ file:///tmp/wheelhouse/traitlets-5.0.5-py3-none-any.whl
+transformers==4.5.1
+treform==1.1.5
+tweepy==3.10.0
+typer==0.3.2
+typing-extensions==3.7.4.3
+ubuntu-drivers-common==0.0.0
+urllib3 @ file:///tmp/wheelhouse/urllib3-1.26.2-py2.py3-none-any.whl
+virtualenv==20.10.0
+wasabi==0.8.2
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug==1.0.1
+wordcloud==1.8.1
+wrapt==1.12.1
+xgboost==1.4.0
+xkit==0.0.0
+youtube-dl==2020.3.24
